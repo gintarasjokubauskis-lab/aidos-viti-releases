@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "channel": "dev",
+  "publishedAt": "2026-09-12T18:10:37.773Z",
+  "releaseId": "dev-w0.1.15-a19",
+  "gitSha": "8b697e0f40512ab64dc209f24b82871b1095bcb4",
+  "windows": {
+    "version": "0.1.15",
+    "minimumSupportedVersion": "0.1.15",
+    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.15-a19/Aidos.Viti.Setup.0.1.15.exe",
+    "sha256": "b9f6f3c83273db3015d34a8165c6a4ade5eec83c70d81e12fe341e502ca1aabe",
+    "size": 138080048,
+    "mandatory": false
+  },
+  "android": {
+    "versionName": "1.0.18",
+    "versionCode": 19,
+    "minimumSupportedVersionCode": 19,
+    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.15-a19/AidosViti-1.0.18-debug.apk",
+    "sha256": "bc45e80eecb4037585768129a553a49ff356e3588775497a31bdb578cc7ba6c4",
+    "size": 13304012,
+    "mandatory": false
+  }
+}
