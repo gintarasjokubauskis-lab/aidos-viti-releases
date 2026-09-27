@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "publishedAt": "2026-09-26T14:26:04.195Z",
-  "releaseId": "dev-w0.1.41-a52",
+  "publishedAt": "2026-09-27T16:40:35.575Z",
+  "releaseId": "dev-w0.1.42-a53",
   "gitSha": "3bb50c1191a0181e8f3d8ef57f1dce6b9f122171",
   "windows": {
-    "version": "0.1.41",
-    "minimumSupportedVersion": "0.1.41",
-    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.41-a52/AidosViti-Setup-0.1.41.exe",
-    "sha256": "26b2d98747fb331fddbd6fecbef152f675c0c0ceead5f07c4ae02cb0913f4083",
-    "size": 138935831,
+    "version": "0.1.42",
+    "minimumSupportedVersion": "0.1.42",
+    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.42-a53/AidosViti-Setup-0.1.42.exe",
+    "sha256": "d036030a4cbe34731320e147b8ff0f041cd1b3e16f5a8ad9c26949918c34e20e",
+    "size": 138937245,
     "mandatory": false
   },
   "android": {
-    "versionName": "1.0.51",
-    "versionCode": 52,
-    "minimumSupportedVersionCode": 52,
-    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.41-a52/AidosViti-1.0.51-debug.apk",
-    "sha256": "82cc0a84cae5ab4e9f08a7126f98af35aea51b6f11bb7ca99db4fc1d9ccc20d6",
-    "size": 13642653,
+    "versionName": "1.0.52",
+    "versionCode": 53,
+    "minimumSupportedVersionCode": 53,
+    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.42-a53/AidosViti-1.0.52-debug.apk",
+    "sha256": "9b29b7034b77d04be5e15a8dd717c8d70340f5d8ca0dd971526bba71a7cc83da",
+    "size": 13646509,
     "mandatory": false
   }
 }
