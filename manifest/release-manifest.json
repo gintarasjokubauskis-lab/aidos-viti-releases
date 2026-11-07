@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "channel": "dev",
-  "publishedAt": "2026-11-05T20:55:48.117Z",
-  "releaseId": "dev-w0.1.74-a85",
-  "gitSha": "ecda1e561562f224dd839038aff18c74f50e8052",
+  "publishedAt": "2026-11-07T16:14:18.318Z",
+  "releaseId": "dev-w0.1.75-a86",
+  "gitSha": "d5c03eae5394b57ed41debfecfc9f7d6c337e308",
   "windows": {
-    "version": "0.1.74",
-    "minimumSupportedVersion": "0.1.74",
-    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.74-a85/AidosViti-Setup-0.1.74.exe",
-    "sha256": "87c9c822d079e0dd9901678ce1f2ea32359d32fbf92987117c94f849ec1a4b44",
-    "size": 141407785,
+    "version": "0.1.75",
+    "minimumSupportedVersion": "0.1.75",
+    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.75-a86/AidosViti-Setup-0.1.75.exe",
+    "sha256": "35985e859627c292403a5fcf3efeeeae4efb93a53bed14feb40efe35eba2c579",
+    "size": 142024382,
     "mandatory": false
   },
   "android": {
-    "versionName": "1.0.84",
-    "versionCode": 85,
-    "minimumSupportedVersionCode": 85,
-    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.74-a85/AidosViti-1.0.84-debug.apk",
-    "sha256": "e2f488d6aec314b864fc3bd77f8104c86fa3c56db7483da0a44e18fd6c6378d9",
-    "size": 15519311,
+    "versionName": "1.0.85",
+    "versionCode": 86,
+    "minimumSupportedVersionCode": 86,
+    "url": "https://github.com/gintarasjokubauskis-lab/aidos-viti-releases/releases/download/dev-w0.1.75-a86/AidosViti-1.0.85-debug.apk",
+    "sha256": "8d4f7b1241118b3a1008819c0a6ac74e59021ddd3d761299e948e1af598b976d",
+    "size": 15907746,
     "mandatory": false
   }
 }
